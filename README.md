@@ -1,2 +1,5 @@
 # My-Hackpad
 This is the repository of my Hackpad that i designed for the Hackclub Stardance Event
+
+
+I added two LEDs used 3 Keys and added an OLED screen
