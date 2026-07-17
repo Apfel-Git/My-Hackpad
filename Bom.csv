@@ -1,0 +1,5 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"D1,D2","2","SK6812MINI","","","","LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount","https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf"
+"SW1,SW2,SW3","3","SW_Push","","","","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB",""
+"U1","1","MOUDLE-SEEEDUINO-XIAO","","","","footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM",""
+"U2","1","ER_OLEDM0.91_1x-I2C","","","","oled libary:SSD1306-0.91-OLED-4pin-128x32","https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf"
